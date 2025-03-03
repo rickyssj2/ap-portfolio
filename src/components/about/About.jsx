@@ -10,7 +10,7 @@ const About = () => {
             <div className="about__container grid">
                 <img
                     src={AboutImage}
-                    alt="Aryan Pandey Image"
+                    alt="Aryan Pandey"
                     className="about__img"
                 />
                 <div className="about__data grid">
@@ -20,7 +20,7 @@ const About = () => {
                             California, USA. I have experience in building APIs
                             and robust backend systems.
                         </p>
-                        <a href="" className="btn">
+                        <a href="#" className="btn">
                             Download Resume
                         </a>
                     </div>
